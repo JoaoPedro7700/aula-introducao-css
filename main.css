@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.desafio1 {
+    color: blue;
+    font-size: 16px;
+}
+
+#lista1 {
+    color: green;
+    font-size: 17px;
+}
+
+#lista2 {
+    color: brown;
+    font-size: 20px;
+}
+
